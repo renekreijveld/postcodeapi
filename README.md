@@ -9,4 +9,6 @@ Installatie insctructies:
 * Plaats bestand pcget.php in de map /media/postcode
 * Plaats bestand postcode.js in de map /media/postcode
 * Maak een formulier met de velden "postcode" "huisnummer" "straat" "plaats" "provincie" "lat" en "lon".
-* Laad onder het formulier de postcode.js javascript: <script src="/media/postcode/postcode.js"></script>
+* Laad onder het formulier de postcode.js javascript: `<script src="/media/postcode/postcode.js"></script>`
+
+Optioneel kun je het bijgevoegde voorbeeld formulier importeren in RSFormPro 1.51.x.
