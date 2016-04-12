@@ -1,8 +1,6 @@
 Postcode API
 ============
 
-## Postcode API
-
 Met deze code kun je in een (RSFormPro) formulier gebruik maken van een adreslookup via Postcodeapi.nu.
 
 Installatie insctructies:
