@@ -13,3 +13,7 @@ Installatie insctructies:
 `<script src="/media/postcode/postcode.js"></script>`
 
 Optioneel kun je het bijgevoegde voorbeeld formulier **postcodeform.tgz** importeren in RSFormPro 1.51.x.
+
+## Screenshots
+
+![Voor lookup](https://dl.dropboxusercontent.com/u/276508/Screenshots/Screenshot_2016-04-12_09.58.47.png "Voor lookup")
