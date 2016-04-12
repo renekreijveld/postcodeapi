@@ -17,7 +17,9 @@ Optioneel kun je het bijgevoegde voorbeeld formulier **postcodeform.tgz** import
 ## Screenshots
 
 Voor lookup:
+
 ![Voor lookup](https://dl.dropboxusercontent.com/u/276508/Screenshots/Screenshot_2016-04-12_09.58.47.png "Voor lookup")
 
 Na lookup:
+
 ![Na lookup](https://dl.dropboxusercontent.com/u/276508/Screenshots/Screenshot_2016-04-12_09.57.50.png "Na lookup")
